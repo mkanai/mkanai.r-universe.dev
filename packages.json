@@ -1,6 +1,30 @@
 [
   {
+    "package": "ccmatch",
+    "url": "https://github.com/mkanai/ccmatch"
+  },
+  {
     "package": "fasthurdle",
     "url": "https://github.com/mkanai/fasthurdle"
+  },
+  {
+    "package": "GCSanndataR",
+    "url": "https://github.com/mkanai/GCSanndataR"
+  },
+  {
+    "package": "grimon",
+    "url": "https://github.com/mkanai/grimon"
+  },
+  {
+    "package": "locusviz",
+    "url": "https://github.com/mkanai/locusviz"
+  },
+  {
+    "package": "rbcor",
+    "url": "https://github.com/mkanai/rbcor"
+  },
+  {
+    "package": "WRShd",
+    "url": "https://github.com/mkanai/WRShd"
   }
 ]
